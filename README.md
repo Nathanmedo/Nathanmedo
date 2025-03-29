@@ -5,6 +5,9 @@
 - 📫 how to reach me?, you can reach me through my email, my Instagram account or my linkedIn, link in profile <br />
 - ⚡ Fun fact: Javascript is the most versatile language today!
 
+![image](https://github.com/user-attachments/assets/06907a67-04f1-4d5a-9058-a4399a2fbe8c)
+
+
 <h1 align="center">Hi 👋, I'm Ihemedo Chinedu AKA Nathanmedo</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
